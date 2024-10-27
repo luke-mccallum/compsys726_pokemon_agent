@@ -1,8 +1,7 @@
-numpy==1.26.4
-opencv-contrib-python==4.6.0.66
+cares_reinforcement_learning.egg==info
+numpy==2.1.2
+opencv_contrib_python==4.6.0.66
 pyboy==2.2.2
-scipy==1.12.0
-matplotlib==3.8.3
-pytest==7.4.2
-
-
+pydrive2==1.20.0
+setuptools==67.8.0
+virtualenv==20.27.0
